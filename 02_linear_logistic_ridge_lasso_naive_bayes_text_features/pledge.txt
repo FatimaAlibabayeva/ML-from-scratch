@@ -1,0 +1,10 @@
+I, Fatima Alibabayeva, affirm that the work in this submission is my own. I have not shared or
+received code, plots, or written analysis for this assignment. Where I used AI assistants,
+I did so only as permitted by the AI/LLM policy in §1.2 of this assignment. I can explain
+every line of code and every paragraph of writing in my submission.
+
+Signed: Fatima Alibabayeva    Date: 23.06.2026
+
+AI tool usage declaration:
+Used Claude (Anthropic) to help check error messages and clarify written explanations.
+All implementations, derivations, and analyses are my own work.
